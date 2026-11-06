@@ -61,4 +61,4 @@
 
 ## Ma capsule
 
-![Mon interface OBS](obs.png)
+![Mon interface OBS](interfaceOBS.png)
