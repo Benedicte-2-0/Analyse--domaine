@@ -43,7 +43,7 @@
 - Types d'entreprises :studios de dévéloppement.
 - Exemple d'entreprise : Ubisoft Montréal.
 
-![ Ubisoft Montréal]( <img width="400" height="400" alt="-RoPOt7-_400x400" src="https://github.com/user-attachments/assets/9552a274-a14e-43cb-a176-37237f40475c" />.jpg)
+![ Ubisoft Montréal](ubisoft.jpg)
 
 (source de l'image : Google)
 
